@@ -1,0 +1,2 @@
+Conversión: USDARS - Monto: 65,00 - Resultado: 56208,75
+Conversión: EURUSD - Monto: 96,00 - Resultado: 102,75
