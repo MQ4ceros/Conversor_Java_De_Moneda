@@ -9,7 +9,7 @@ Para nuestro actual desafío, hemos elegido la API "Exchange Rate API" por sus t
 
 Esta opción nos garantiza un acceso confiable y eficiente a los datos esenciales para el proyecto.
 
-##Opciones de Conversión
+## Opciones de Conversión
 El programa ofrece las siguientes opciones de conversión:
 
 Dólar a Peso Argentino
