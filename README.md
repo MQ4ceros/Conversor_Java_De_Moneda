@@ -12,13 +12,12 @@ Esta opción nos garantiza un acceso confiable y eficiente a los datos esenciale
 ## Opciones de Conversión
 El programa ofrece las siguientes opciones de conversión:
 
-Dólar a Peso Argentino
-Peso Argentino a Dólar
-Dólar a Real Brasileño
-Real Brasileño a Dólar
-Dólar a Peso Colombiano
-Peso Colombiano a Dólar
-Salir
+<p>Dólar -> Peso Argentino<br>
+Peso Argentino -> Dólar<br>
+Dólar -> Real Brasileño<br>
+Real Brasileño -> Dólar<br>
+Dólar -> Peso Colombiano<br>
+Peso Colombiano -> Dólar<br></p>
 
 
 ## Screenshots
